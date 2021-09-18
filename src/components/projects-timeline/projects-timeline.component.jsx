@@ -123,13 +123,13 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://akjha96.github.io/Todo-List-React/"
+                  href="#"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
                 <UrlButton
-                  href="https://github.com/akjha96/Todo-List-React"
+                  href="#"
                   target="_blank"
                 >
                   SOURCE CODE
@@ -225,7 +225,7 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
+                  href="#"
                   target="_blank"
                 >
                   SOURCE CODE
